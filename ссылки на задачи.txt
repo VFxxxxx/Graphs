@@ -1,0 +1,12 @@
+обход в ширину
+https://informatics.mccme.ru/mod/statements/view.php?id=255#1
+обход в глубину
+https://informatics.mccme.ru/mod/statements/view.php?id=256#1
+флойд
+https://informatics.mccme.ru/mod/statements/view.php?id=258#1
+дейкстра
+https://informatics.mccme.ru/mod/statements/view.php?id=193#1
+краскала
+https://informatics.mccme.ru/mod/statements/view.php?id=567#1
+прим
+https://informatics.mccme.ru/mod/statements/view3.php?id=261&chapterid=185#1

@@ -1,0 +1,4 @@
+﻿  прим.cpp
+c:\users\1\documents\учёба 7 семестр\графы\прим\прим\прим.cpp(17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  прим.vcxproj -> C:\Users\1\Documents\учёба 7 семестр\графы\прим\Debug\прим.exe
+  прим.vcxproj -> C:\Users\1\Documents\учёба 7 семестр\графы\прим\Debug\прим.pdb (Partial PDB)
